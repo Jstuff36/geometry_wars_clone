@@ -1,8 +1,13 @@
-## Geometry Wars
+## IPO Defender
 
  ### Background
 
- Geometry Wars is a classic arcade in which the goal is to survive as long as possible while acquiring points by destroying an ever-increasing number of enemies. The game takes place on a rectangular grid and the player controls a "ship" that can shoot in any direction. Enemies span randomly on the outskirts of the grid and target the player's ship. If an enemy manages to touch the player's ship, the player looses a life. The game then proceeds in waves with the number and frequency of enemies increasing with each wave survived. Additionally, the type of bullets the player's ship shoots changes at regular point increments and the player has a limited number of bombs that can be detonated at any point resulting in all enemies currently on the board being destroyed. The game ends when the player has no more lives.
+ In IPO Defender, you are Ghostface Chillah protecting the universe from the acquisition attempts of the tech giants originating from the silicon nebula. Three of the tech giants have banded together in an attempt to overwhelm your tiny ship, but fear not for you have a steady supply of ammunition plus three bombs!
+
+The tech giants will come in waves and for each that you repel a larger more formidable one will take its place so keep up your guard!
+
+If you happen to collide with a tech giant three times your energy reserves will be depleted and you will have been acquired, but fear not! There is great treasure to be gained for if you survive through 5 waves, you will not only save the universe, but you will also collect enough treasurer for your war chest to starve off acquisitions forever!
+
 
  ### Functionality & MVP
 
